@@ -9,6 +9,18 @@
       "title": "Nice Stream",
       "description": "Nice Description",
       "id": 2
+    },
+    {
+      "title": "New Stream With ID",
+      "description": "Nice Description",
+      "userId": "108290396663612559349",
+      "id": 3
+    },
+    {
+      "title": "New Stream With ID",
+      "description": "Nice Description",
+      "userId": "108290396663612559349",
+      "id": 4
     }
   ]
 }
