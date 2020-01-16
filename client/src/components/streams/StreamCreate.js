@@ -60,11 +60,6 @@ const validate = formValues => {
   return errors;
 };
 
-const mapStateToProps = state => ({});
-
-// const mapDispatchToProps = dispatch =>
-//   bindActionCreators(Actions, dispatch);
-
 const formWrapped = reduxForm({
   form: "streamCreate",
   validate
