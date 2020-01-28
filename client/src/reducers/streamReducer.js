@@ -5,7 +5,7 @@ import {
   DELETE_STREAM,
   EDIT_STREAM
 } from "../actions/types";
-import { omit } from "lodash/omit";
+import omit from "lodash/omit";
 import mapKeys from "lodash/mapKeys";
 
 export default (state = {}, action) => {
