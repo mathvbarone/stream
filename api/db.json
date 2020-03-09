@@ -19,6 +19,12 @@
       "title": "Refactored Component",
       "description": "Hey ",
       "id": 6
+    },
+    {
+      "title": "New stream",
+      "description": "Description",
+      "userId": "108290396663612559349",
+      "id": 7
     }
   ]
 }
